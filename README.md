@@ -2,10 +2,13 @@
 
 This is a template for Nuxt3 and Vuetify applications.
 
-- Added Volar, prettier-vscode, vscode-eslint as recommended VSCode extensions.
-- Configure ESlint and prettier to work with VSCode..
+- Added Volar, prettier-vscode, vscode-eslint as recommended VS Code extensions.
+- Configure ESlint and prettier to work with VS Code.
 - launch.json for debug using Chrome, Edge, Firefox.
   - Requires installation of extensions for each browser.
+    - Firefox: Debugger for Firefox
+    - Chrome: DevTools for Chrome
+    - Edge: Microsoft Edge Tools for VS Code
   - Chrome or Edge is recommended for ubuntu 22.04.
     - Firefox (snap version) cannot start browser with debug.
     - The deb package version has no problem starting, but it seems that break points cannot be set correctly.
